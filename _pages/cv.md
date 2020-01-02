@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+<!-- title: "CV" -->
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -85,6 +85,7 @@ Key Project Undertaken
     * Worked with head of school to plan school wide events
 
 **Extra Curricular Activities**
+======
 * Brought 1st prize to school in Inter School General Science Competition
 * Won the 1st place in Intra School English Elocution competition
 * Bagged the 2nd position in singing at school level singing competition
