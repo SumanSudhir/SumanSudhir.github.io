@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://sumansudhir.github.io/files/profile.jpg?raw=true" alt="Photo"/>
+  <img src="https://sumansudhir.github.io/files/profile.jpg?raw=true" alt="Photo" style="width: 400px;"/>
 </p>
 <!-- style="width: 550px;" -->
 
