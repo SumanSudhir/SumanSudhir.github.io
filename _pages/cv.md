@@ -17,8 +17,7 @@ Education:
 
 Key Courses Undertaken:
 ======
-Computer Vision, Digital Image Processing, Advance Machine Learning, Reinforcement Learning, Automatic Speech Recognition, Computer Programming and Utilization, Probability
-and Random Processes, Linear Algebra, Data Analysis and Interpretation
+    * Computer Vision, Digital Image Processing, Advance Machine Learning, Reinforcement Learning, Automatic Speech Recognition, Computer Programming and Utilization, Probability and Random Processes, Linear Algebra, Data Analysis and Interpretation
 
 Scholastic Achievement:
 ======
@@ -43,4 +42,26 @@ Key Project Undertaken
     * Used fully connected layers in the end for prediction of the bounding box around License Plate
     * Built a **Recognition** Module which exploits **Region of Interest** from CNN layers to extract features map of interest and several **classifiers** to predict the corresponding license plate number
 
-* **License Plate Detection and Recognition:**
+* **Automation of Gate Security System:**
+    * Collected around 1700+ images of vehicles and manually annotated all the desired class present in it
+    * Trained model **YOLOv3** on annotated images to detect vehicle along with its type and locate the License Plate of the detected vehicle for recognition purpose
+    * Delivered a **Detection Module** of Automation model for automating the gate security system to ease the guard’s job
+
+* **Non-Invasive Glucometer:**
+*Guide:[Prof.Shalabh Gupta](https://www.ee.iitb.ac.in/wiki/faculty/shalabh)*
+    * Designed an analog circuit to get the amplified voltage level for corresponding glucose concentration present in the body
+    * Collected blood sugar concentration data using the designed setup and invasive glucometer and trained Regression model on it
+    * Delivered an alternative **low-cost** solution to traditional invasive glucose testing method for **monitoring glucose-related** diseases
+
+* **Image Classifier:**
+*Guide:Udacity*
+    * Built an **Image classifier** using **Neural Network** in PyTorch to recognize 102 different species of flowers present in the dataset
+    * Achieved a test accuracy of 95% by setting appropriate **optimizer**, **loss function** and **learning rate**
+
+**Technical Skills / Extra Courses(MOOC)**
+======
+* Programming: C++, Python, Embedded-C, VHDL, Assembly-Language, Bash
+* Web Development: HTML, CSS, JavaScript
+* Software: MATLAB, Quartus, ngSPICE, Octave, AutoCAD, SolidWorks, KEIL, Gnu-Radio
+* MOOC: Deep Learning in Pytorch, Applied Machine Learning, Algorithmic Toolbox,
+        Front End Web Development, Introduction to Data Science
