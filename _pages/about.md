@@ -9,8 +9,9 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://sumansudhir.github.io/files/profile.jpg?raw=true" alt="Photo" style="width: 550px;"/>
+  <img src="https://sumansudhir.github.io/files/profile.jpg?raw=true" alt="Photo"/>
 </p>
+<!-- style="width: 550px;" -->
 
 * I am a Dual(Btech+Mtech). student in the [Electrical Engineering Department](https://www.ee.iitb.ac.in/web) at [IIT Bombay](http://www.iitb.ac.in/). [[Curriculum Vitae](https://sumansudhir.github.io/files/sumansudhir_cv.pdf)]
 
