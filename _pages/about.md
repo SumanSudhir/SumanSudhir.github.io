@@ -18,7 +18,7 @@ redirect_from:
 * My research interest is in general area of Machine Learning particularly in Deep Learninig and Computer vision.
 
 # Recent News
-* December 1, 2019. Started Research Project on Early Risk Detection of Depression using social edia text under
+* December 1, 2019. Started Research Project on Early Risk Detection of Depression using social media text under
 prof [J. Kadiawala](https://www.linkedin.com/in/juned-kadiwala-3845b036/?originalSubdomain=uk) of [University of Cambridge](https://www.cam.ac.uk/).
 
 * November 29, 2019. Posted my **First** blog on [Instance Segmentation using Open Image Dataset](https://medium.com/@sudhiriitb27/instance-segmentation-8bc214d56a09?source=friends_link&sk=9034a8170c812164e04ddf5414bc2f30) on Medium.
