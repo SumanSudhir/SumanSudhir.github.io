@@ -15,9 +15,9 @@ redirect_from:
 
 * I am a Dual(Btech+Mtech). student in the [Electrical Engineering Department](https://www.ee.iitb.ac.in/web) at [IIT Bombay](http://www.iitb.ac.in/). [[Curriculum Vitae](https://sumansudhir.github.io/files/sumansudhir_cv.pdf)]
 
-* My research interest is in general area of Machine Learning particularly in Deep Learninig and Computer vision.
+* My research interest is in general area of Machine Learning particularly in Deep Learninig and Computer vision. In order to promote Open Source Software I have started to make small [contributions](https://github.com/SumanSudhir).
 
-# Recent News
+# Updates
 * December 1, 2019. Started Research Project on Early Risk Detection of Depression using social media text under
 prof [J. Kadiawala](https://www.linkedin.com/in/juned-kadiwala-3845b036/?originalSubdomain=uk) of [University of Cambridge](https://www.cam.ac.uk/).
 
