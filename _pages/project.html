@@ -3,11 +3,331 @@ layout: archive
 title: "Project"
 permalink: /project/
 author_profile: true
+redirect_from:
+- /project
 ---
 
 {% include base_path %}
 
+<table id="all" width="100%" align="center" border="0" cellspacing="0" cellpadding="20" style="display: table;">
+    <tbody>
 
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
+
+
+
+        <tr id="recomm">
+            <td width="30%">
+                <img src="/images/collab.png" width="350" height="250" style="border:1px solid black">
+            </td>
+            <td width="70%" valign="top">
+                <p>
+                    <b>
+                        <papertitle>
+                            <font size="4"> Recommendation Model Neural Collaborative Filtering </font>
+                        </papertitle>
+                    </b>
+                    <a target="_blank" href="https://github.com/tensorflow"><br> Swift for TensorFlow | Open Source Project</a>
+                </p>
+                <div align="justify">
+                    <p></p>
+                    <ul>
+                        <li>Implemented Neural Collaborative Filtering architecture in new deep learning framework Swift for TensorFlow to model latent features of users and items and got it merged in swift-model package.</li>
+                        <li>Added new dataset MovieLens in Swift for TensorFlow dataset package to directly load and use it.</li>
+                        <li>Experimented on MovieLens-100K dataset for the correctness test of Recommendation model by predicting the top K-items user will interact in coming days.</li>
+                    </ul>
+                    <p></p>
+                </div>
+                <div class="publ">
+                    [ <a target="_blank" href="https://sumansudhir.github.io/files/swift_report.pdf">Report</a> ]
+                    [ <a target="_blank" href="https://github.com/tensorflow/swift-models/pull/406">Code</a> ]
+                </div>
+            </td>
+        </tr>
+
+
+
+
+        <tr id="depression">
+            <td width="30%">
+                <img src="/images/depression.jpeg" width="350" height="250" style="border:1px solid black">
+            </td>
+            <td width="70%" valign="top">
+                <p>
+                    <b>
+                        <papertitle>
+                            <font size="4"> Detection of Sign of Depression using Social Media Text </font>
+                        </papertitle>
+                    </b>
+                    <a target="_blank" href=""><br> University of Cambridge | Internship</a>
+                </p>
+                <div align="justify">
+                    <p></p>
+                    <ul>
+                        <li>Developed a Machine Learning pipeline for detection of depression based on messages from social media platform.</li>
+                        <li>Employed Deep Learning model BiLSTM with Attention to learn the mental information from sparse space with unbalanced small dataset.</li>
+                    </ul>
+                    <p></p>
+                </div>
+                <div class="publ">
+                    <!-- [ <a target="_blank" href="https://medium.com/@sudhiriitb27/instance-segmentation-8bc214d56a09">Blog Post</a> ] -->
+                    <!-- [ <a target="_blank" href="https://github.com/SumanSudhir/Instance-Segmentation">Code</a> ] -->
+                </div>
+            </td>
+        </tr>
+
+
+
+
+        <tr id="instseg">
+            <td width="30%">
+                <img src="/images/instance.png" width="350" height="250" style="border:1px solid black">
+            </td>
+            <td width="70%" valign="top">
+                <p>
+                    <b>
+                        <papertitle>
+                            <font size="4"> Instance Segmentation </font>
+                        </papertitle>
+                    </b>
+                    <a target="_blank" href="https://www.ee.iitb.ac.in/web/academics/courses/EE782"><br>Advance Machine Learning | Course Project</a>
+                </p>
+                <div align="justify">
+                    <p></p>
+                    <ul>
+                        <li>Implemented deep neural network Mask-RCNN to detect and provide segmentation masks to object belonging to 300 different categories.</li>
+                        <li>Extended the model Mask-RCNN to Open Image Dataset provided by Google AI for Instance Segmentation Open Image Challenge 2019.</li>
+                    </ul>
+                    <p></p>
+                </div>
+                <div class="publ">
+                    [ <a target="_blank" href="https://medium.com/@sudhiriitb27/instance-segmentation-8bc214d56a09">Blog Post</a> ]
+                    [ <a target="_blank" href="https://github.com/SumanSudhir/Instance-Segmentation">Code</a> ]
+                </div>
+            </td>
+        </tr>
+
+
+
+
+        <tr id="looking2listen">
+            <td width="30%">
+                <img src="/images/looking.jpeg" width="350" height="250" style="border:1px solid black">
+            </td>
+            <td width="70%" valign="top">
+                <p>
+                    <b>
+                        <papertitle>
+                            <font size="4"> Looking to Listen </font>
+                        </papertitle>
+                    </b>
+                    <a target="_blank" href="https://www.cse.iitb.ac.in/~pjyothi/cs753/index.html"><br>Automatic Speech Recognition | Course Project</a>
+                </p>
+                <div align="justify">
+                    <p></p>
+                    <ul>
+                        <li>Implemented Speech Seperation paper by Google Research to isolate a single speech signal from a mixture of sounds.</li>
+                        <li>Build an End to End pipeline consisting of Audio Model, Visual Model both consitiing of Dilated CNN and Fusion Model consisting of BiLSTM followed by fully connected layer.</li>
+                    </ul>
+                    <p></p>
+                </div>
+                <div class="publ">
+                    [ <a target="_blank" href="https://sumansudhir.github.io/files/looking_to_listen.pdf">Report</a> ]
+                    [ <a target="_blank" href="https://github.com/SumanSudhir/Speech-Seperataion">Code</a> ]
+                </div>
+            </td>
+        </tr>
+
+
+
+
+        <tr id="compcollab">
+            <td width="30%">
+                <img src="/images/compcollab.png" width="350" height="250" style="border:1px solid black">
+            </td>
+            <td width="70%" valign="top">
+                <p>
+                    <b>
+                        <papertitle>
+                            <font size="4"> Competition and Collaboration </font>
+                        </papertitle>
+                    </b>
+                    <a target="_blank" href="https://www.cse.iitb.ac.in/~shivaram/teaching/old/cs747-a2019/index.html"><br>Foundations of Intelligent and Learning Agents | Course Project</a>
+                </p>
+                <div align="justify">
+                    <p></p>
+                    <ul>
+                        <li>Trained two agents to play in Tennis environment where the agent must bounce the ball between one another while not dropping the ball out of bounds.</li>
+                        <li>Used Actor-Critic network for training where Actor determine best action and Critic evaluate quality of action as determined by Actor inorder to incorporate action taken by both agent for better learning.</li>
+                    </ul>
+                    <p></p>
+                </div>
+                <div class="publ">
+                    [ <a target="_blank" href="https://sumansudhir.github.io/files/competition_collaboration.pdf">Report</a> ]
+                    [ <a target="_blank" href="https://github.com/SumanSudhir/Collaboration-and-Competition">Code</a> ]
+                </div>
+            </td>
+        </tr>
+
+
+
+
+        <tr id="classcifar">
+            <td width="30%">
+                <img src="/images/cifar.png" width="350" height="250" style="border:1px solid black">
+            </td>
+            <td width="70%" valign="top">
+                <p>
+                    <b>
+                        <papertitle>
+                            <font size="4"> Image Classification on CIFAR </font>
+                        </papertitle>
+                    </b>
+                    <a target="_blank" href="https://www.ee.iitb.ac.in/web/academics/courses/EE782"><br>Advance Machine Learning | Course Project</a>
+                </p>
+                <div align="justify">
+                    <p></p>
+                    <ul>
+                        <li>Implemented forward and backward pass of different layers of Fully Connected Neural Networks from scratch with the flexibility to take variable size input.</li>
+                        <li>Trained the implemented Neural Network for object classification on CIFAR dataset and achieved 75-80% accuracy on each class of CIFAR.</li>
+                    </ul>
+                    <p></p>
+                </div>
+                <div class="publ">
+                    <!-- [ <a target="_blank" href="https://sumansudhir.github.io/files/competition_collaboration.pdf">Report</a> ] -->
+                    [ <a target="_blank" href="https://github.com/SumanSudhir/Advanced-Topics-in-Machine-Learning-EE782/tree/master/Assignment1">Code</a> ]
+                </div>
+            </td>
+        </tr>
+
+
+
+
+        <tr id="gateautomation">
+            <td width="30%">
+                <img src="/images/automation.jpg" width="350" height="250" style="border:1px solid black">
+            </td>
+            <td width="70%" valign="top">
+                <p>
+                    <b>
+                        <papertitle>
+                            <font size="4"> Automation of Gate Security System </font>
+                        </papertitle>
+                    </b>
+                    <!-- <a target="_blank" href="https://www.ee.iitb.ac.in/web/academics/courses/EE782"><br>Advance Machine Learning | Course Project</a> -->
+                </p>
+                <div align="justify">
+                    <p></p>
+                    <ul>
+                        <li>Collected around 1700+ images of vehicles and manually annotated all the desired class present in it.</li>
+                        <li>Trained model YOLOv3 on annotated images to detect vehicle along with its type and locate the License Plate of the detected vehicle for recognition purpose.</li>
+                        <li>Delivered a Detection Module of Automation model for automating the gate security system to ease the guard’s job.</li>
+                    </ul>
+                    <p></p>
+                </div>
+                <div class="publ">
+                    [ <a target="_blank" href="https://sumansudhir.github.io/files/automation_gate.pdf">Report</a> ]
+                    [ <a target="_blank" href="https://github.com/SumanSudhir/Vehicle-and-Its-License-Plate-detection">Code</a> ]
+                </div>
+            </td>
+        </tr>
+
+
+
+
+        <tr id="platedetection">
+            <td width="30%">
+                <img src="/images/license.png" width="350" height="250" style="border:1px solid black">
+            </td>
+            <td width="70%" valign="top">
+                <p>
+                    <b>
+                        <papertitle>
+                            <font size="4"> License Plate Detection and Recognition </font>
+                        </papertitle>
+                    </b>
+                    <a target="_blank" href="https://github.com/cs763/Spring2018"><br>Computer Vision | Course Project</a>
+                </p>
+                <div align="justify">
+                    <p></p>
+                    <ul>
+                        <li>Implemented an EECV 2018 paper in PyTorch using CNN to extract features and fully connected layers in the end to predict bounding box around License Plate.</li>
+                        <li>Built a Recognition Module which exploits Region of Interest from CNN layers to extract features map of interest and several classifiers to predict the corresponding license plate number.</li>
+                    </ul>
+                    <p></p>
+                </div>
+                <div class="publ">
+                    [ <a target="_blank" href="https://github.com/ankit-02/LP-Detection-and-Recognintion/blob/master/README.md">Report</a> ]
+                    [ <a target="_blank" href="https://github.com/ankit-02/LP-Detection-and-Recognintion">Code</a> ]
+                </div>
+            </td>
+        </tr>
+
+
+
+
+        <tr id="noninvasive">
+            <td width="30%">
+                <img src="/images/noninvasive.jpg" width="350" height="250" style="border:1px solid black">
+            </td>
+            <td width="70%" valign="top">
+                <p>
+                    <b>
+                        <papertitle>
+                            <font size="4"> Non-Invasive Glucometer </font>
+                        </papertitle>
+                    </b>
+                    <a target="_blank" href="https://www.ee.iitb.ac.in/web/academics/courses/EE344"><br>Electronic Design Lab | Course Project</a>
+                </p>
+                <div align="justify">
+                    <p></p>
+                    <ul>
+                        <li>Designed an analog circuit to get the amplified voltage level for corresponding glucose concentration present in the body.</li>
+                        <li>Collected blood sugar concentration data using the designed setup and invasive glucometer and trained Regression model on it.</li>
+                        <li>Delivered an alternative low-cost solution to traditional invasive glucose testing method for monitoring glucose-related diseases.</li>
+                    </ul>
+                    <p></p>
+                </div>
+                <div class="publ">
+                    [ <a target="_blank" href="https://sumansudhir.github.io/files/glucometer.pdf">Report</a> ]
+                    <!-- [ <a target="_blank" href="https://github.com/ankit-02/LP-Detection-and-Recognintion">Code</a> ] -->
+                </div>
+            </td>
+        </tr>
+
+
+
+
+        <tr id="toonification">
+            <td width="30%">
+                <img src="/images/toonify.jpeg" width="350" height="250" style="border:1px solid black">
+            </td>
+            <td width="70%" valign="top">
+                <p>
+                    <b>
+                        <papertitle>
+                            <font size="4"> Toonification of Image </font>
+                        </papertitle>
+                    </b>
+                    <a target="_blank" href="https://www.cse.iitb.ac.in/~ajitvr/CS663_Fall2018/"><br>Image Processing | Course Project</a>
+                </p>
+                <div align="justify">
+                    <p></p>
+                    <ul>
+                        <li>Designed an analog circuit to get the amplified voltage level for corresponding glucose concentration present in the body.</li>
+                        <li>Collected blood sugar concentration data using the designed setup and invasive glucometer and trained Regression model on it.</li>
+                        <li>Delivered an alternative low-cost solution to traditional invasive glucose testing method for monitoring glucose-related diseases.</li>
+                    </ul>
+                    <p></p>
+                </div>
+                <div class="publ">
+                    <!-- [ <a target="_blank" href="https://sumansudhir.github.io/files/glucometer.pdf">Report</a> ] -->
+                    [ <a target="_blank" href="https://github.com/SumanSudhir/Toonification-of-Image">Code</a> ]
+                </div>
+            </td>
+        </tr>
+
+
+
+
+    </tbody>
+</table>
