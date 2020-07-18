@@ -18,6 +18,13 @@ redirect_from:
 * My research interest is in general area of Machine Learning particularly in Deep Learninig and Computer vision. In order to promote Open Source Software I have started to make small [contributions](https://github.com/SumanSudhir) to Swift For TensorFlow.
 
 # Updates
+
+* July 18, 2020. Offered Research Project from prestigious [TATA Memorial Hospital](https://tmc.gov.in/tmh/index.php/en/) to work on Wholeslide Images
+
+* May 5, 2020. Started participating in [Prostate cANcer graDe Assessment (PANDA) Challenge](https://www.kaggle.com/c/prostate-cancer-grade-assessment) on Kaggle under mentorship of Prof. [Amit Sethi](https://www.ee.iitb.ac.in/~asethi/) of [IIT Bombay](http://www.iitb.ac.in/)
+
+* Feburary 15, 2020. Started Open Source Project to contribute new model **Neural Collaborative Filtering Model** in new deep learning framework [Swift for TensorFlow ](https://www.tensorflow.org/swift)
+
 * January 10, 2020. Started Research Project to **Predict Prostate Cancer Recurrence** after radical prostatectomy using tissue images under prof [Amit Sethi](https://www.ee.iitb.ac.in/~asethi/) of [IIT Bombay](http://www.iitb.ac.in/)
 
 * December 1, 2019. Started Research Project on **Early Risk Detection** of **Depression** using social media text under
