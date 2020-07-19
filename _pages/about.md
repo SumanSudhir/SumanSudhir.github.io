@@ -19,7 +19,7 @@ redirect_from:
 
 # Updates
 
-* July 18, 2020. Offered Research Project from prestigious [TATA Memorial Hospital](https://tmc.gov.in/tmh/index.php/en/) to work on Wholeslide Images
+<!-- * July 18, 2020. Offered Research Project from prestigious [TATA Memorial Hospital](https://tmc.gov.in/tmh/index.php/en/) to work on Wholeslide Images -->
 
 * May 5, 2020. Started participating in [Prostate cANcer graDe Assessment (PANDA) Challenge](https://www.kaggle.com/c/prostate-cancer-grade-assessment) on Kaggle under mentorship of Prof. [Amit Sethi](https://www.ee.iitb.ac.in/~asethi/) of [IIT Bombay](http://www.iitb.ac.in/)
 
